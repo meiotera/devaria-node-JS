@@ -11,7 +11,7 @@ let leituraDeCampo;
 readLine.question('Digite sua idade:', input => {
 
     leituraDeCampo = input;
-    console.log(`O usuario digitou ${leituraDeCampo}` )
+    console.log(`O usuario digitou ${leituraDeCampo}` );
 
     
 });
